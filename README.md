@@ -9,6 +9,10 @@ This Weather App uses weather APIs, allows users to get real-time weather inform
 - Every 3-hours weather forecast
 - Responsive design for various screen sizes
 
+## website link
+
+- https://navneet-singh01.github.io/Weather-forecast-web-application/
+
 ## Technologies Used
 
 - HTML
