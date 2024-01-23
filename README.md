@@ -11,7 +11,7 @@ This Weather App uses weather APIs, allows users to get real-time weather inform
 
 ## website link
 
-- https://navneet-singh01.github.io/Weather-forecast-web-application/
+[Link to live demo](https://navneet-singh01.github.io/Weather-forecast-web-application/)
 
 ## Technologies Used
 
